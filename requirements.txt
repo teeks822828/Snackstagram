@@ -1,0 +1,8 @@
+io
+openai
+random
+streamlit
+PIL
+urllib
+requests
+pyttsx3
